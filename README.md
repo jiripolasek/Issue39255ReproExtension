@@ -1,1 +1,1 @@
-# Issue39255ReproExtension
+Repro for issue https://github.com/microsoft/PowerToys/issues/39255
