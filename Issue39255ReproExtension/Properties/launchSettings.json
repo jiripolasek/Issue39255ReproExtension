@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Issue39255ReproExtension (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "Issue39255ReproExtension (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
